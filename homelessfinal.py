@@ -88,7 +88,7 @@ layout_page_1 = html.Div([
     html.H3("Homelessness in the United States: ", style = {'text-align': 'left'}),
     html.Br(),
 
-    html.H5("The program below gives you a visual representation of the average amount of homeless people there are per year in the United States." , style = {'text-align': 'center'}),
+    html.H5("The program below gives you a visual representation of the average amount of homeless people there are per year in the United States. (Takes a couple of seconds to load)" , style = {'text-align': 'center'}),
 
     html.Br(),
     html.Br(),
